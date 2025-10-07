@@ -3,7 +3,7 @@ How to Schedule a Geek Squad Appointment: A Complete 2025 Guide
 
 In today’s fast-paced world, technology plays an integral role in our daily lives, and when our gadgets or electronics malfunction, it can be a major disruption. That's where Geek Squad comes in. Whether it's your laptop, smartphone, or home theater system, Geek Squad provides expert technical support and repair services. If you’re wondering how to schedule a Geek Squad appointment, this guide has got you covered. We'll walk you through the process, provide essential tips, and share what to expect from Geek Squad services in 2025.
 
-.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+.. image:: book appointment.png
    :alt: My Project Logo
    :width: 400px
    :align: center
